@@ -1,5 +1,5 @@
-# Skill-India-ML-AI-Internship-Cars-Manufacturing Analysis
-This repository is having all the codes and logic for analysis of Car  Manufacturing using data.
+# Skill-India-ML-AI-Internship-Summer Olympics Analysis
+This repository is having all the codes and logic for analysis of Summer Olympics using data.
 
 -----
 ### About the Repository?
