@@ -21,6 +21,6 @@ You'll learn how to handle data and how the data is processed ,know about pandas
 My name is Dhawal Vijayvargiya and I am pursuing BCA from MohanLal Sukhadia University. I'm also working as an intern at Elite Techno Groups.
 
 -----
-### Other Useful Links:
+### Connect with me on:
 
 LinkedIn - https://github.com/dhawal-793
