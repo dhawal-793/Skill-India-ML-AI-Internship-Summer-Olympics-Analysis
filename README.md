@@ -1,5 +1,5 @@
 # Skill-India-ML-AI-Internship-Summer Olympics Analysis
-This repository is having all the codes and logic for analysis of Summer Olympics using data.
+Analysis & Prediction of Summer Olympics using past data.
 
 -----
 ### About the Repository?
